@@ -4,7 +4,6 @@
 *
 * Program name : Homework 1
 *
-* Author : Esther Mun 
 *
 * Date created : 2021-02-01
 *
