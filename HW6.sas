@@ -4,8 +4,6 @@
 *
 * Program name : Homework 6
 * 
-* Author : Esther Mun 
-*
 * Date created : 2021-03-23
 *
 *
