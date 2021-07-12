@@ -4,7 +4,6 @@
 *
 * Program name : Homework 7
 * 
-* Author : Esther Mun 
 *
 * Date created : 2021-03-30
 *
